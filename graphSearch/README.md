@@ -1,9 +1,6 @@
-Install graph package 
+Implement breadth first search and depth first search algorithms with node.js
 
 npm install node-graph
-
-
-To run the test:
 
 node client
 
