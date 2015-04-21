@@ -1,0 +1,1000 @@
+  213  node server.js 
+  214  mongo
+  215  exit
+  216  cd node.js/
+  217  cd "iseeu - Copy"/
+  218  node app.js 
+  219  exit
+  220  mongo
+  221  cd 'node.js/iseeu - Copy'/
+  222  ls
+  223  npm install nodemon
+  224  sudo npm install nodemon
+  225  nodemon app.js 
+  226  ls
+  227  sudo find -name nodemon /
+  228  sudo find / -name nodemon 
+  229  node_modules/.bin/nodemon app.js 
+  230  node app.js 
+  231  cd 'node.js/iseeu - Copy'/
+  232  node a
+  233  node app.js 
+  234  cd 'node.js/iseeu - Copy'/
+  235  ls
+  236  node app.js 
+  237  exit
+  238  ls
+  239  cd 'node.js/iseeu - Copy'/
+  240  node app.js 
+  241  cd 'node.js/iseeu - Copy'/
+  242  node app.js 
+  243  ps
+  244  node app.js 
+  245  exit
+  246  ls
+  247  cd 'node.js/iseeu - Copy'/
+  248  ls
+  249  cd routes/
+  250  ls
+  251  mv reg.js reg_bak.js
+  252  ls
+  253  mv reg.js reg_bak.js
+  254  cd 'node.js/iseeu - Copy'/
+  255  node app.js 
+  256  node -v
+  257  cd node.js/
+  258  ls
+  259  cd blog/
+  260  node app.js 
+  261  exit
+  262  mongo
+  263  exit
+  264  ls
+  265  cd 'node.js/iseeu - Copy'/
+  266  ls
+  267  node app.js 
+  268  exit
+  269  cd 'node.js/iseeu - Copy'/
+  270  node app.js 
+  271  cd 'node.js/iseeu - Copy'/
+  272  node app.js 
+  273  cd 'node.js/iseeu - Copy'/
+  274  node app.js 
+  275  exit
+  276  exit
+  277  mongo
+  278  cd 'node.js/iseeu - Copy'/
+  279  node app.js 
+  280  cd 'node.js/iseeu - Copy'/
+  281  node app.js 
+  282  ls
+  283  mongo
+  284  exit
+  285  ls
+  286  cd 'node.js/iseeu - Copy'/
+  287  node app.js 
+  288  exit
+  289  mongo
+  290  sodu reboot
+  291  exit
+  292  cd node.js/
+  293  s
+  294  ls
+  295  git clone git@github.com:scotch-io/node-todo
+  296  service mongodb restart
+  297  service mongod restart
+  298  sudo service mongodb restart
+  299  cd node.js/
+  300  ls
+  301  mkdir todo
+  302  cd todo
+  303  ls
+  304  git clone git@github.com:scotch-io/node-todo
+  305  sudo git clone git@github.com:scotch-io/node-todo
+  306  ls
+  307  cd ..
+  308  ls
+  309  cd todo 
+  310  git clone git@github.com:scotch-io/node-todo
+  311  git clone https://github.com/scotch-io/node-todo.git
+  312  ls
+  313  cd node-todo/
+  314  ls
+  315  npm install
+  316  sudo npm install
+  317  node server.js 
+  318  sudo service mongod restart
+  319  sudo mongod restart
+  320  sudo mongo restart
+  321  sudo service mongod stop
+  322  mongod --shutdown
+  323  sudo mongod --shutdown
+  324  sudo mongod
+  325  sudo mongod --shutdown
+  326  service mongodb restart
+  327  service mongod restart
+  328  service mongodb restart
+  329  sudo service mongodb restart
+  330  node server.js 
+  331  su
+  332  cd /etc/
+  333  ls
+  334  cat mongodb.conf 
+  335  vi mongodb.conf 
+  336  cd
+  337  sudo service mongodb stop
+  338  sudo service mongodb -auth
+  339  cd /et
+  340  cd /etc
+  341  vi mongodb.conf 
+  342  sudo vi mongodb.conf 
+  343  sudo service mongodb stop
+  344  sudo service mongodb 
+  345  mongodb
+  346  sudo service mongod
+  347  sudo service mongodb
+  348  sudo mongod
+  349  start mongodb
+  350  sudo start mongodb
+  351  sudo reboot
+  352  mongo
+  353  ls
+  354  cd node.js/
+  355  ls
+  356  cd todo/
+  357  ls
+  358  cd node-todo/
+  359  node server.js 
+  360  cd node.js/
+  361  ls
+  362  cd iseeu\ -\ Angular/
+  363  ls
+  364  node app.js 
+  365  exit
+  366  cd iseeu\ -\ Angular/
+  367  node angularJS/
+  368  pwd
+  369  cd iseeu\ -\ Angular/
+  370  cd node 
+  371  cd node.js/
+  372  cd iseeu\ -\ Angular/
+  373  node app.js 
+  374  cd node.js
+  375  cd iseeu\ -\ Angular/
+  376  node app.js 
+  377  exit
+  378  cd node.js/
+  379  cd iseeu\ -\ Angular/
+  380  node app.js 
+  381  exit
+  382  cd node.js/
+  383  cd iseeu\ -\ Angular/
+  384  node app.js 
+  385  cd node.js/
+  386  ls
+  387  cd iseeu\ -\ Angular/
+  388  node app.js 
+  389  mongo
+  390  pwd
+  391  cd node.js/
+  392  cd iseeu\ -\ Angular/
+  393  node app.js 
+  394  history
+  395  history | grep grep
+  396  ps
+  397  ps aux|grep node
+  398  kill 3104
+  399  ps aux|grep node
+  400  node app.js 
+  401  cd node.js/
+  402  cd iseeu\ -\ Angular/
+  403  node app.js 
+  404  cd node.js/realtime-geolocation-demo/
+  405  ls
+  406  node server.js 
+  407  cd node.js/realtime-geolocation-demo/
+  408  node server.js 
+  409  history
+  410  ls
+  411  cd node.js/
+  412  ls
+  413  cd iseeu\ -\ Angular/
+  414  ls
+  415  node app.js 
+  416  exit
+  417  cd node.js/
+  418  cd iseeu\ -\ Angular/
+  419  ls
+  420  node app.js 
+  421  cd node.js/
+  422  cd iseeu\ -\ Angular/
+  423  ls
+  424  node app.js 
+  425  cd node.js/
+  426  cd iseeu\ -\ Angular/
+  427  ls
+  428  node app.js 
+  429  pwd
+  430  git remote add origin https://github.com/zhiyinglei/iseeku.git
+  431  git push -u origin master
+  432  pw
+  433  dpwd
+  434  pwd
+  435  cd node.js/
+  436  cd episode/
+  437  cd episode_01/
+  438  ls
+  439  node read_file.js 
+  440  ls
+  441  node mkdir_read_write.js 
+  442  ls
+  443  cat tmp/target 
+  444  node mkdir_read_write.js 
+  445  rm -r tmp
+  446  ls
+  447  node mkdir_read_write.js 
+  448  cat tmp/target 
+  449  rm -r tmp
+  450  node mkdir_read_write.js 
+  451  cat tmp/target 
+  452  rm -r tmp
+  453  node mkdir_read_write.js 
+  454  cat tmp/target 
+  455  rm -r tmp
+  456  node mkdir_read_write.js 
+  457  cat tmp/target 
+  458  rm -r tmp
+  459  node mkdir_read_write.js 
+  460  cat tmp/target 
+  461  rm -r tmp
+  462  node mkdir_read_write.js 
+  463  cat tmp/target 
+  464  rm -r tmp
+  465  node mkdir_read_write.js 
+  466  cat tmp/target 
+  467  rm -r tmp
+  468  node mkdir_read_write.js 
+  469  cat tmp/target 
+  470  node mkdir_read_write.js 
+  471  cat tmp/target 
+  472  rm -r tmp
+  473  cat tmp/target 
+  474  node mkdir_read_write.js 
+  475  cat tmp/target 
+  476  rm -r tmp
+  477  node mkdir_read_write.js 
+  478  cat tmp/target 
+  479  exit
+  480  ls
+  481  cd node.js/
+  482  ls
+  483  mkdir episode
+  484  cd episode/
+  485  mkdir episode_01
+  486  cd node.js/
+  487  cd episode/
+  488  cd episode_02
+  489  ls
+  490  node client.js 
+  491  clear
+  492  node client.js 
+  493  ls
+  494  cd ..
+  495  ls
+  496  cd episode_03
+  497  ls
+  498  cd eachAsync/
+  499  ls
+  500  node client.js 
+  501  clear
+  502  node client.js 
+  503  cd ..
+  504  ls
+  505  cd mapAsync/
+  506  ls
+  507  node client.js 
+  508  ls
+  509  node client.js 
+  510  exit
+  511  cd node.js/
+  512  ;s
+  513  ls
+  514  cd episode/
+  515  ls
+  516  cd episode_05
+  517  ls
+  518  cd episode_04
+  519  ls
+  520  cd eachAsyncSeries/
+  521  ls
+  522  node client.js 
+  523  clear
+  524  node client.js 
+  525  clear
+  526  node client.js 
+  527  cd ..
+  528  ls
+  529  cd MapAsyncSeries/
+  530  node client.js 
+  531  cd .
+  532  cd ..
+  533  ls
+  534  cd MapAsyncSeries/
+  535  node client.js 
+  536  cd ..
+  537  ls
+  538  cd mapAsyncLimit/
+  539  node client.js 
+  540  ls
+  541  node client.js 
+  542  clear
+  543  node client.js 
+  544  clear
+  545  node client.js 
+  546  clear
+  547  node client.js 
+  548  clear
+  549  node client.js 
+  550  clear
+  551  node client.js 
+  552  clear
+  553  node client.js 
+  554  clear
+  555  node client.js 
+  556  clear
+  557  node client.js 
+  558  cd ..
+  559  ls
+  560  node test_call.js 
+  561  ls
+  562  node test_call.js 
+  563  exit
+  564  cd node.js/
+  565  cd episode/
+  566  ls
+  567  cd episode_05
+  568  ls
+  569  npm install async
+  570  ls
+  571  node series.js 
+  572  ls
+  573  rm -r tmp/
+  574  ls
+  575  node series.js 
+  576  rm -r tmp/
+  577  node series.js 
+  578  cat tmp/target 
+  579  node series.js 
+  580  rm -r tmp/
+  581  node series.js 
+  582  cat tmp/target 
+  583  rm -r tmp/
+  584  node series.js 
+  585  node series_01.js 
+  586  cat tmp/target 
+  587  rm -r tmp/
+  588  node series_02.js 
+  589  cat tmp/target 
+  590  node series_02.js 
+  591  rm -r tmp/
+  592  node series_02.js 
+  593  cat tmp/target 
+  594  rm -r tmp/
+  595  node series_03.js 
+  596  cat tmp/target 
+  597  node series_03.js 
+  598  rm -r tmp/
+  599  node series_03.js 
+  600  cat tmp/target 
+  601  rm -r tmp/
+  602  cd ..
+  603  cd episode_06
+  604  ls
+  605  node series_03.js 
+  606  cat tmp/target 
+  607  rm -r tmp/
+  608  ls
+  609  rm -r tmp/
+  610  node operations.js 
+  611  rm -r tmp/
+  612  node operations.js 
+  613  cat tmp/target 
+  614  rm -r tmp/
+  615  node operations.js 
+  616  cat tmp/target 
+  617  rm -r tmp/
+  618  node operations_improvement.js.js 
+  619  ls
+  620  node operations_improvement.js 
+  621  cat tmp/target 
+  622  rm -r tmp/
+  623  node operations_improvement.js 
+  624  cat tmp/target 
+  625  rm -r tmp/
+  626  node operations_improvement.js 
+  627  cat tmp/target 
+  628  rm -r tmp/
+  629  cd ..
+  630  cd episode_07
+  631  ls
+  632  node client.js 
+  633  clear
+  634  node client.js 
+  635  ls
+  636  cd 02
+  637  ls
+  638  node client.js 
+  639  ls
+  640  cd ..
+  641  cd 03
+  642  node client.js 
+  643  ls
+  644  cd ..
+  645  cd 04
+  646  ls
+  647  node client.js 
+  648  cd ..
+  649  cd episode_08
+  650  ls
+  651  npm install async
+  652  ls
+  653  node client.js 
+  654  ls
+  655  cd 01
+  656  ls
+  657  node client.js 
+  658  cd ..
+  659  cd 02
+  660  node client.js 
+  661  cd ..
+  662  ls
+  663  cd 03
+  664  node client.js 
+  665  MAX_PARALLEL_SENDS=20 node client.js 
+  666  exit
+  667  ls
+  668  cd node.js/test_test_test/
+  669  ls
+  670  npm install csv2
+  671  cd ..
+  672  rm -r  test_test_test/
+  673  ls
+  674  mkdir test_test
+  675  cd test_test/
+  676  ls
+  677  npm 
+  678  npm install csv2
+  679  sudo npm install csv2
+  680  ls
+  681  vi data.csv
+  682  node .
+  683  ls
+  684  node test_csv2.js 
+  685  clear
+  686  node test_csv2.js 
+  687  cat data.csv 
+  688  exit
+  689  ls
+  690  cd node.js/
+  691  ls
+  692  cd episode/
+  693  ls
+  694  cd TCP/01/
+  695  ls
+  696  node 
+  697  ls
+  698  ps
+  699  ls
+  700  node .
+  701  clear
+  702  node .
+  703  clear
+  704  node .
+  705  ls
+  706  npm install through2 --save
+  707  ls
+  708  cat package.js 
+  709  rm -r node_modules/
+  710  ls
+  711  npm install through2 --save
+  712  cat package.js 
+  713  rm -r node_modules/
+  714  npm install through2 --save
+  715  cat package.js 
+  716  cat package.json 
+  717  node .
+  718  cd ../02
+  719  ls
+  720  node .
+  721  npm install split2 --save
+  722  node .
+  723  npm install stream-combiner2 --save
+  724  sudo npm install stream-combiner2 --save
+  725  node .
+  726  exit
+  727  nc localhost:8000
+  728  nc localhost 8000
+  729  exit
+  730  ls
+  731  cd node.js/
+  732  ls
+  733  cd test_test/
+  734  ls
+  735  touch package.json
+  736  ls
+  737  npm install xml2js --save
+  738  ping google.com
+  739  npm install xml2js --save
+  740  npm install xml2js 
+  741  ls
+  742  rm package.json 
+  743  npm install xml2js --save
+  744  ls
+  745  ls node_modules/
+  746  cat test_csv2.js 
+  747  vi test_csv2.js 
+  748  cat test_csv2.js 
+  749  cat data.csv 
+  750  node test_csv2.js 
+  751  vi test_csv2.js 
+  752  node test_csv2.js 
+  753  vi test_csv2.js 
+  754  cat test_csv2.js 
+  755  clear
+  756  cat test_csv2.js 
+  757  cat data.csv 
+  758  node test_csv2.js 
+  759  cat test_csv2.js 
+  760  node test_csv2.js 
+  761  node xml2js.js 
+  762  clear
+  763  node xml2js.js 
+  764  clear
+  765  node xml2js.js 
+  766  product
+  767  node xml2js.js 
+  768  cd node.js/test
+  769  ls
+  770  cd ..
+  771  cd test_test/
+  772  ls
+  773  cd problems/
+  774  ls
+  775  node tickets.js 
+  776  ls
+  777  ls -l
+  778  time
+  779  date
+  780  node tickets.js 
+  781  cd
+  782  cd node.js/test
+  783  ls
+  784  cd problems/
+  785  ls
+  786  node tickets.js 
+  787  cd 
+  788  cd node.js/test/problems/
+  789  l
+  790  ls
+  791  l
+  792  ls
+  793  cd modules/
+  794  ls
+  795  node drive.js 
+  796  clear
+  797  node drive.js 
+  798  clear
+  799  node drive.js 
+  800  exit
+  801  ps aux | grep node
+  802  cd node.js/t
+  803  cd node.js/test
+  804  ls
+  805  cd problems/
+  806  ls
+  807  node json2obj.js 
+  808  clear
+  809  node json2obj.js 
+  810  clear
+  811  node json2obj.js 
+  812  ls
+  813  node cluster.js 
+  814  ps aux
+  815  ps aux | grep node
+  816  node cluster.js 
+  817  ls
+  818  cat name.txt 
+  819  sort < name.txt 
+  820  cd ../../test_test/
+  821  ls
+  822  node test_csv2.js 
+  823  exit
+  824  cd node.js/test
+  825  ls
+  826  cd problems/
+  827  ls
+  828  node readJsonFromWeb.js 
+  829  [A
+  830  node readJsonFromWeb.js 
+  831  exit
+  832  cd node.js/
+  833  ls
+  834  cd episode/
+  835  ls
+  836  cd episode_0'
+  837  cd episode_01
+  838  ls
+  839  cat read_file.js 
+  840  cat mkdir_read_write.js 
+  841  ls
+  842  git init
+  843  ls
+  844  git add .
+  845  ls
+  846  ls ../../iseeu
+  847  ls .
+  848  ls -l
+  849  ls -a
+  850  git commit -m 'first commit'
+  851  git rm -r tmp/
+  852  ls
+  853  git rm --cached read_file.js 
+  854  ls
+  855  git commit -m 'remove some files'
+  856  ls
+  857  git remote add origin https://github.com/zhiyinglei/Avoid_callback_hall_Generalizing_error_handling
+  858  git push -u origin master
+  859  git remote add origin https://github.com/zhiyinglei/Avoid_callback_hall_Generalizing_error_handling.git
+  860  git remote add github  https://github.com/zhiyinglei/Avoid_callback_hall_Generalizing_error_handling.git
+  861  git push -u origin master
+  862  ls
+  863  cd ..
+  864  ls
+  865  cd episode_0
+  866  cd episode_02
+  867  ls
+  868  history
+  869  ls
+  870  ls -a
+  871  git init
+  872  ls -a
+  873  git add . 
+  874  git commit -m 'first commit'
+  875  git remote add origin https://github.com/zhiyinglei/coordinate_parallel_calls.git
+  876  git push -u origin master
+  877  git remote add github https://github.com/zhiyinglei/coordinate_parallel_calls.git
+  878  git push -u origin master
+  879  git remote add github https://github.com/zhiyinglei/coordinate_parallel_calls.git
+  880  git push -u origin master
+  881  cd ..
+  882  cd episode_03
+  883  ls
+  884  git init
+  885  git add .
+  886  ls
+  887  git commit -m "first commit"
+  888  ls -a
+  889  git remote add origin https://github.com/zhiyinglei/Parallel_Iteration_and_Parallel_Mapping.git
+  890  git push -u origin master
+  891  ls
+  892  cd eachAsync/ 
+  893  ls
+  894  cd ..
+  895  ls
+  896  cd eachAsync node client.js
+  897  cd ../..
+  898  cd episode_04
+  899  ls
+  900  cat test_call.js 
+  901  node test_call.js 
+  902  git init
+  903  git add . 
+  904  history
+  905  git rm --cached test_call.js 
+  906  git commit -m 'first commit'
+  907  ls -a
+  908  git remote add origin https://github.com/zhiyinglei/Serial_Asyn_Iteration_and_Serial_Asyn_Mapping_and_Limited_Parallel_Mapping.git
+  909  git push -u origin master
+  910  ls 
+  911  mapAsyncLimit exit
+  912  exit
+  913  ls
+  914  cd node.js
+  915  ls
+  916  history
+  917  history | grep git
+  918  history > history_01.log
+  919  vi history_01.log 
+  920  ls
+  921  cd episode/
+  922  cd episode_02
+  923  ls
+  924  node client.js 
+  925  exit
+  926  cd node.js/episode/
+  927  ls
+  928  cd episode_05
+  929  ls
+  930  git init
+  931  git add .
+  932  history
+  933  ls
+  934  git rm -r --cached  node_modules
+  935  git commit -m 'first commit'
+  936  git remote add origin https://github.com/zhiyinglei/async_package_in_series_waterfall.git
+  937  git push -u origin master
+  938  ls
+  939  cd node.js/
+  940  cd episode/
+  941  ls
+  942  cd episode_06
+  943  ls
+  944  git init
+  945  git add .
+  946  history
+  947  git rm -r --cached node_modules
+  948  ls
+  949  git commit -m "first commit"
+  950  git remote add origin https://github.com/zhiyinglei/async_package_in_parallel_then_waterfall.git
+  951  git push -u origin master
+  952  ls
+  953  cd node.js/
+  954  ls
+  955  cd episode/
+  956  ls
+  957  cd episode_07
+  958  ls
+  959  cd 01
+  960  ls
+  961  cd ..
+  962  git init
+  963  git add .
+  964  history
+  965  git rm -r --cached 01/node_modules/
+  966  git rm -r --cached 02/node_modules/
+  967  git rm -r --cached 03/node_modules/
+  968  git rm -r --cached 04/node_modules/
+  969  git remote add origin https://github.com/zhiyinglei/async.each_map_eachSeries_mapLimit.git
+  970  git push -u origin master
+  971  git commit -m 'first commit'
+  972  git push -u origin master
+  973  cd ..
+  974  cd episode_08
+  975  ls
+  976  cd 03
+  977  ls
+  978  node client.js 
+  979  git init
+  980  git add .
+  981  ls
+  982  git rm -r --cached node_modules/
+  983  ls
+  984  git commit -m 'first commit'
+  985  ls
+  986  git remote add origin https://github.com/zhiyinglei/-async.queue.git
+  987  git push -u origin master
+  988  ls
+  989  exit
+  990  cd node.js/
+  991  cd test/problems/
+  992  ls
+  993  node mergeSort.js 
+  994  node --max-stack-size 32000 mergeSort.js 
+  995  node --max-stack-size=32000 mergeSort.js 
+  996  /bin/bash -c "ulimit -s 65500; exec /usr/local/bin/node --stack-size=65500 mergeSort.js"
+  997  node mergeSort.js 
+  998  node recursion.js 
+  999  cat  recursion.js 
+ 1000  node recursion.js 
+ 1001  node mergeSort.js 
+ 1002  node recursi
+ 1003  node mergeSort.js 
+ 1004  node recursion.js 
+ 1005  node mergeSort.js 
+ 1006  node recursion.js 
+ 1007  node mergeSort.js 
+ 1008  clear
+ 1009  node mergeSort.js 
+ 1010  node recursion.js 
+ 1011  node mergeSort.js 
+ 1012  node recursion.js 
+ 1013  node mergeSort.js 
+ 1014  node recursion.js 
+ 1015  node mergeSort.js 
+ 1016  cd ../..
+ 1017  ls
+ 1018  cd problem_set/
+ 1019  ls
+ 1020  node tickets.js 
+ 1021  ls
+ 1022  node quickSort.js 
+ 1023  exit
+ 1024  cd node.js/
+ 1025  cd test
+ 1026  ls
+ 1027  npm install node-graph
+ 1028  ls
+ 1029  node graphExample.js 
+ 1030  cd ../
+ 1031  cd problem_set/
+ 1032  ls
+ 1033  cd sortingTickets/
+ 1034  ls
+ 1035  node client.js 
+ 1036  ls
+ 1037  cd ..
+ 1038  ls
+ 1039  cd sorting
+ 1040  ls
+ 1041  node client.js 
+ 1042  ls
+ 1043  cd .
+ 1044  cd ..
+ 1045  ls
+ 1046  cd modules/
+ 1047  ls
+ 1048  node drive.js 
+ 1049  cd ..
+ 1050  ls
+ 1051  cd graphSearch/
+ 1052  ls
+ 1053  npm install node-graph
+ 1054  ls
+ 1055  node graphExample.js 
+ 1056  node client.js 
+ 1057  cd ..
+ 1058  ls
+ 1059  cd sortingTickets/
+ 1060  node client.js 
+ 1061  cd ..
+ 1062  ls
+ 1063  git init
+ 1064  git add .
+ 1065  history
+ 1066  git rm -r --cached graphSearch/node_modules/
+ 1067  ls graphSearch/
+ 1068  git commit -m "first commit"
+ 1069  git remote add origin https://github.com/zhiyinglei/Problem-Set.git
+ 1070  git push -u origin master
+ 1071  ls
+ 1072  cd graphSearch/
+ 1073  ls
+ 1074  node client.js 
+ 1075  cd ..
+ 1076  ls
+ 1077  cd BST/
+ 1078  ls
+ 1079  node node.js 
+ 1080  node BST.js 
+ 1081  exit
+ 1082  node
+ 1083  ls
+ 1084  cd node.js/
+ 1085  cd test
+ 1086  ls
+ 1087  node test.js 
+ 1088  cd ..
+ 1089  ls
+ 1090  cd problem_set/
+ 1091  ls
+ 1092  cd BST/
+ 1093  ls
+ 1094  node BST.js 
+ 1095  node client.js 
+ 1096  cd ..
+ 1097  ls
+ 1098  git add .
+ 1099  hisotry
+ 1100  history
+ 1101  git rm -r --cached graphSearch/node_modules/
+ 1102  git commit -m 'add BST'
+ 1103  git remote add origin https://github.com/zhiyinglei/Problem-Set.git
+ 1104  git remote update origin https://github.com/zhiyinglei/Problem-Set.git
+ 1105  git push -u origin master
+ 1106  git pull -u origin master
+ 1107  git push -u origin master
+ 1108  git pull -u origin master
+ 1109  exit
+ 1110  cd node.js/
+ 1111  ls
+ 1112  cd problem_set/
+ 1113  cd B
+ 1114  cd BST/
+ 1115  ls
+ 1116  node client.js 
+ 1117  cd node.js/
+ 1118  ls
+ 1119  cd test
+ 1120  cd message
+ 1121  mkdir message
+ 1122  cd message
+ 1123  ls
+ 1124  node app.js 
+ 1125  cd node.js/
+ 1126  ls
+ 1127  cd problem_set/
+ 1128  ls
+ 1129  cd inheritance/
+ 1130  ls
+ 1131  node client.js 
+ 1132  cd ..
+ 1133  cd test
+ 1134  ls
+ 1135  cd ut
+ 1136  ls
+ 1137  node util.js 
+ 1138  cd node.js/
+ 1139  ls
+ 1140  cd test
+ 1141  ls
+ 1142  node avoid_currying.js 
+ 1143  clear
+ 1144  node avoid_currying.js 
+ 1145  clear
+ 1146  node avoid_currying.js 
+ 1147  clear
+ 1148  node avoid_currying.js 
+ 1149  clear
+ 1150  node avoid_currying.js 
+ 1151  cd ..
+ 1152  cd problem_set/
+ 1153  cd async/
+ 1154  ls
+ 1155  cd series/
+ 1156  ls
+ 1157  node series.js 
+ 1158  node parallel.js 
+ 1159  cd
+ 1160  cd node.js/problem_set/async/
+ 1161  ls
+ 1162  node parallel.js 
+ 1163  node limited_parallel.js 
+ 1164  cd ..
+ 1165  ls
+ 1166  cd ..
+ 1167  cd test
+ 1168  ls
+ 1169  node avoid_currying.js 
+ 1170  cd node.js/
+ 1171  ls
+ 1172  cd test
+ 1173  ls
+ 1174  node avoid_currying.js 
+ 1175  \\\
+ 1176  clear
+ 1177  node avoid_currying.js 
+ 1178  ls
+ 1179  node avoid_currying.js 
+ 1180  ls
+ 1181  cat out.txt 
+ 1182  rm out.txt 
+ 1183  ls
+ 1184  node avoid_currying.js 
+ 1185  cd node.js/
+ 1186  ls
+ 1187  cd problem_set/
+ 1188  ls
+ 1189  cd sorting
+ 1190  ls
+ 1191  node client.js 
+ 1192  cd node.js/
+ 1193  ls
+ 1194  cd problem_set/
+ 1195  ls
+ 1196  cd graphSearch/
+ 1197  node client.js 
+ 1198  cd node.js/
+ 1199  ls
+ 1200  cd problem_set/
+ 1201  ls
+ 1202  cd shortestPaths/
+ 1203  ls
+ 1204  node client.js 
+ 1205  cd ../graphSearch/
+ 1206  node client.js 
+ 1207  cd ../sorting
+ 1208  ls
+ 1209  node client.js 
+ 1210  cd ..
+ 1211  history
+ 1212  history> log.txt

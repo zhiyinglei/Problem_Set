@@ -23,7 +23,7 @@ function tickets(ts){
 
 	var start;
 	for( var c in counter){
-		if (counter[c] == 1 && c in ts){
+		if (counter[c] == 1 && ts[c]){
 			start = c;
 			break;
 		}

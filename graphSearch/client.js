@@ -30,33 +30,39 @@ var structure = {
         {
             name: 'AB',
             from: 'A',
-            to: 'B'
+            to: 'B',
+            length: 3
         },
         {
             name: 'AC',
             from: 'A',
-            to: 'C'
+            to: 'C',
+            length: 3
         },
         {
             name: 'AD',
             from: 'A',
-            to: 'D'
+            to: 'D',
+            length: 3
         },
 
         {
             name: 'BE',
             from: 'B',
-            to: 'E'
+            to: 'E',
+            length: 3
         },
         {
             name: 'BF',
             from: 'B',
-            to: 'F'
+            to: 'F',
+            length: 3
         },
         {
             name: 'DG',
             from: 'D',
-            to: 'G'
+            to: 'G',
+            length: 3
         },
 
     ]
@@ -80,6 +86,8 @@ console.log('  E   F         G');
 
 var gr = new Graph(structure);
 
+
+
 console.log();
 console.log('result of BFS: ');
 graphSearch.BFS(gr, 'A');
@@ -87,3 +95,8 @@ graphSearch.BFS(gr, 'A');
 console.log();
 console.log('result of DFS: ');
 graphSearch.DFS(gr, 'A');
+
+
+
+
+// console.log(gr.nodes);

@@ -1,24 +1,25 @@
 module.exports = quickSort;
 
 function quickSort(ary){
-	sort(ary, 0, ary.length-1);
-}
+	this.sort(ary, 0, ary.length-1);
+};
 
-function sort(ary, left, right){
-	var index = partition(ary, left, right);
+quickSort.prototype.sort = function(ary, left, right) {
+	var index = this.partition(ary, left, right);
 
 
 	if (left < index-1){
-		sort(ary, left, index-1);
+		this.sort(ary, left, index-1);
 	}
 
 	if (right > index){
-		sort(ary, index  , right);
+		this.sort(ary, index  , right);
 	}
+};
 
-}
 
-function partition(ary, left, right){
+
+quickSort.prototype.partition = function(ary, left, right) {
 	var pivot = ary[Math.floor((left + right)/2)];
 
 	//console.log(pivot);
@@ -30,18 +31,23 @@ function partition(ary, left, right){
 		while (ary[right] > pivot ) right--;
 
 		if(left <= right){
-			swap(ary, left, right);
+			this.swap(ary, left, right);
 			left++;
 			right--;
 		}
 
 	}
 	return left;
-}
+};
 
-function swap(ary, left, right){
+
+
+
+quickSort.prototype.swap = function(ary, left, right) {
 	var temp = ary[left];
 	ary[left] = ary[right];
 	ary[right] = temp;
-}
+};
+
+
 

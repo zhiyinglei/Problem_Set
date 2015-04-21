@@ -14,5 +14,5 @@ console.log();
 console.log('quickSort testing');
 ary = buildArray(16);
 console.log('before quickSort: ', ary);
-quickSort(ary);
+new quickSort(ary);
 console.log('after quickSort: ', ary);
